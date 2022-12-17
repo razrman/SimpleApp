@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(int argc, char *argv[]) {
-  puts("Hello, world!");
+  puts("Hello, Simple Builder world!");
   return EXIT_SUCCESS;
 }
 
